@@ -1,0 +1,27 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "organizer": 1,
+            "location": "Chilis on West End",
+            "description": "Margs and Monsters",
+            "date": "2023-05-25",
+            "time": "6:00"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "organizer": 1,
+            "location": "Centennial Park",
+            "description": "Magic the Gathering",
+            "date": "2023-05-01",
+            "time": "7:00"
+            
+        }
+    }
+]
